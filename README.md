@@ -13,7 +13,6 @@ MSA introduces a meta-coordination layer that enforces logical coherence across 
 ## Whitepaper
 - PDF: docs/halenta-meta-synthetic-architecture-(MSA)-2025-10-12-v1.pdf  
 - DOI: https://doi.org/10.5281/zenodo.17357120  
-- Also available on arXiv (Cornell University, USA)
 
 ## Repository purpose
 Public research reference for industry and collaborators. Mirrors the technical whitepaper and provides stubs for reference implementations or models.
