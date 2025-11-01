@@ -1,11 +1,31 @@
 # Meta Synthetic Architecture (MSA) Reference Repository
 
+**Series:** Picyboo Public Research Series  
+**Organization:** Picyboo Cybernetics Inc., Research Lab (Canada)
+
+**Keywords:** Continual Learning, Catastrophic Forgetting, AGI Architecture, Meta-Learning, Causal Reasoning, Knowledge Consolidation, Coherence Mechanisms, Neurocognitive AI
+
+## Whitepaper
+- PDF: docs/halenta-meta-synthetic-architecture-(MSA)-2025-10-12-v1.3.pdf  
+- DOI: https://doi.org/10.5281/zenodo.17455369 
+
+## How to cite
+> Halenta, D. N. (2025). *Meta-Synthetic Architecture (MSA): Logic as the Foundation of Next-Generation Artificial Intelligence.*  
+> Picyboo Cybernetics Inc.  
+> DOI: https://doi.org/10.5281/zenodo.17455369
+
+## Links
+- Website: https://picyboo.com  
+- GitHub organization: https://github.com/Picyboo-Cybernetics
+
+## Repository Overview
+
 This repository accompanies the *Meta Synthetic Architecture* whitepaper
-and now includes a lightweight reference implementation, experiment
+and includes a lightweight reference implementation, experiment
 scaffolding, and supplementary documentation that make the proposal more
 accessible to collaborators.
 
-## Repository Contents
+### Contents
 
 - `docs/halenta-meta-synthetic-architecture-(MSA)-2025-10-12-v1.3.pdf` – the
   original whitepaper.
@@ -61,5 +81,5 @@ accessible to collaborators.
 
 ## License
 
-The repository is distributed under the terms of the MIT License.  See
+The repository is distributed under the terms of the MIT License. See
 [`LICENSE`](LICENSE) for details.
