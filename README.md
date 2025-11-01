@@ -24,8 +24,8 @@ Coherence Mechanisms, Neurocognitive AI
 
 ## Repository Contents
 
-- [`docs/halenta-meta-synthetic-architecture-(MSA)-2025-10-12-v1.3.pdf`](docs/halenta-meta-synthetic-architecture-(MSA)-2025-10-12-v1.3.pdf)
-  – the original whitepaper (also available via DOI below).
+- [Whitepaper PDF][msa-pdf] – the original whitepaper (also available via DOI
+  below).
 - [`docs/primer.md`](docs/primer.md) – implementation-focused summary of the
   MSA concepts.
 - [`docs/research_landscape.md`](docs/research_landscape.md) – overview of
@@ -41,8 +41,7 @@ Coherence Mechanisms, Neurocognitive AI
 
 ## Whitepaper & Citation
 
-- PDF:
-  [`docs/halenta-meta-synthetic-architecture-(MSA)-2025-10-12-v1.3.pdf`](docs/halenta-meta-synthetic-architecture-(MSA)-2025-10-12-v1.3.pdf)
+- PDF: [docs/halenta-meta-synthetic-architecture-(MSA)-2025-10-12-v1.3.pdf][msa-pdf]
 - DOI: <https://doi.org/10.5281/zenodo.17455369>
 
 ### How to cite
@@ -102,6 +101,8 @@ roadmaps and production-ready modules will be added as they mature.
 
 - Website: <https://picyboo.com>
 - GitHub: <https://github.com/Picyboo-Cybernetics/picyboo-public-msa>
+
+[msa-pdf]: docs/halenta-meta-synthetic-architecture-(MSA)-2025-10-12-v1.3.pdf
 
 ## License
 
